@@ -1,0 +1,7 @@
+venv
+**\__pycache__
+.vscode
+sandBox.py
+*.txt
+profiles_settings.xml
+workspace.xml

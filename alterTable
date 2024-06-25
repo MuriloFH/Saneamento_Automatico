@@ -1,0 +1,3 @@
+call bethadba.pg_habilitartriggers('off');
+ALTER TABLE bethadba.controle_migracao_registro_ocor ADD pre_validacao varchar(100) NULL;
+commit;
